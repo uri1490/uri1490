@@ -6,9 +6,10 @@
     <td>
       <h2> <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="40px" height="40px"></img> &nbsp;Acerca de mi </h2>
       
-Cuento con un titulo como Ing. en Sistemas Computacionales, trabaje como desarrollador front-end en una consultoría, al principio fue para realizar mi estadía profesional y después me reclutaron para trabajar de tiempo completo. Posteriormente trabaje en una compañía dedicada a la distribución de equipo radiológico en la cual desempeñe. diversas labores tales como programar, documentar, revisar equipos de rayos x, testear software, impartir cursos de los equipos de rayos x, etc.
-    <br>
-    - 📚 Estoy aprendiendo actualmente Reactjs y un poco de spring boot ...
+- 🧾 Cuento con un titulo como Ing. en Sistemas Computacionales.
+- 💻 Trabaje como desarrollador front-end en una consultoría, al principio fue para realizar mi estadía profesional y después me reclutaron para trabajar de tiempo completo. 
+- ☠️ Posteriormente trabaje en una compañía dedicada a la distribución de equipo radiológico en la cual desempeñe. diversas labores tales como programar, documentar, revisar equipos de rayos x, testear software, impartir cursos de los equipos de rayos x, etc.
+- 📚 Estoy aprendiendo actualmente Reactjs y un poco de spring boot ...
     </td>
     <td><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejR4ZWNoN28zeXVjeHZ2ODR5MDA1aTJ1eWR2ZWwyOWR0N3YzNDhnOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PI3QGKFN6XZUCMMqJm/giphy.gif" width="480" height="360"></img></td>
   </tr>
